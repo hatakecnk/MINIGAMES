@@ -58,5 +58,5 @@ else :
       print("Please Wait")
       os.system("sleep 3")
       os.system("clear")
-      os.system("python2 asd.py")
+      os.system("python2 minigames.py")
       
