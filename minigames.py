@@ -1,5 +1,6 @@
 import os
 
+os.system("clear")
 print("===============================")
 print("   DAFTAR GAME YANG TERSEDIA   ")
 print("===============================")
