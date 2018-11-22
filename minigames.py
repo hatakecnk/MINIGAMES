@@ -2,6 +2,9 @@ import os
 
 os.system("clear")
 print("===============================")
+print("     Author : xNot_Found")
+print("     CP WA : +12342172669")
+print("===============================")
 print("   DAFTAR GAME YANG TERSEDIA   ")
 print("===============================")
 print("1. Tebak Kata                  ")
@@ -50,7 +53,6 @@ elif (pilih == '6'):
       os.system("clear")
       os.system("python2 minigames.py")
 elif (pilih == '0'):
-      os.system("clear")
       os.system("figlet KELUAR")
       os.system("exit")
 else :
